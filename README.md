@@ -12,4 +12,13 @@ The dataset consists of customer demographics, transaction history, city and gen
 3. Evaluation: Use Silhouette Score, Inertia, and visualization techniques to determine the best clustering approach.
 4. Insights & Recommendations: Analyze segments and suggest strategies for coupon allocation to maximize customer retention.
 
+******📊 Dataset Description******
+
+The dataset consists of five tables:
+
+* Customers: Contains customer_id, join_date, city_id, and gender_id.
+* Genders: Maps gender_id to gender names.
+* Cities: Maps city_id to city names.
+* Transactions: Includes transaction_id, customer_id, transaction_date, transaction_status, coupon_name, burn_date, and branch_id.
+* Branches & Merchants: Provide branch and merchant details.
 
