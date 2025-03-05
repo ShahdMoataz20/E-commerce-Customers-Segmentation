@@ -22,3 +22,9 @@ The dataset consists of five tables:
 * Transactions: Includes transaction_id, customer_id, transaction_date, transaction_status, coupon_name, burn_date, and branch_id.
 * Branches & Merchants: Provide branch and merchant details.
 
+******🏆 Methodology******
+
+* 1️⃣ Data Preprocessing
+
+
+
