@@ -1,3 +1,6 @@
 # 🛍️E-commerce Customer Segmentation – MLSC Data Science Graduation Project
 ******📌 Project Overview:******
-develop and train an unsupervised machine learning model to segment customers based on their transactional behavior and other relevant features from the dataset. The goal is to identify customer groups that share similar behaviors and use these segments to discuss strategies for offering coupons to increase loyalty and satisfaction.
+
+This project focuses on customer segmentation for an e-commerce platform using unsupervised machine learning. The goal is to analyze customer behavior, group them into meaningful segments, and provide recommendations for coupon distribution to enhance customer loyalty and satisfaction.
+
+The dataset consists of customer demographics, transaction history, city and gender information, and coupon usage data. We employ clustering techniques to identify customer segments and derive actionable insights for business decision-making.
