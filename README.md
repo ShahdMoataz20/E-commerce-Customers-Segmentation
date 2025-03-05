@@ -24,7 +24,7 @@ The dataset consists of five tables:
 
 ******🏆 Methodology******
 
-* 1️⃣ Data Preprocessing
+ 1️⃣ Data Preprocessing
 
 
 
