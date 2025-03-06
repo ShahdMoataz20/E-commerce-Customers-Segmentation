@@ -24,7 +24,46 @@ The dataset consists of five tables:
 
 ******🏆 Methodology******
 
-  1️⃣ Data Preprocessing
+  1️⃣ Data Preprocessing: 
+  * Merged datasets to integrate demographic and transactional data.
+  * Handled missing values, outliers, and transformed categorical variables.
+  * Scaled numerical features for clustering.
+
+  2️⃣ Feature Engineering:
+  * Derived transaction frequency, recency, and coupon usage rates.
+  * Used city_id and gender_id as categorical identifiers.
+
+  3️⃣ Clustering Techniques:
+  * K-Means Clustering (optimized using the Elbow Method & Silhouette Score).
+  * Finding the best 'k' using Elbow method is 6 with Silhouette Score: 0.40146108955786375
+
+  4️⃣ Evaluation Metrics:
+  * Silhouette Score: Measures the compactness and separation of clusters.
+  * Inertia: Used to determine the optimal number of clusters for K-Means.
+  * Cluster Visualizations: Box plots, and distribution analysis.
+
+
+******🔍 Key Findings & Insights******
+
+* Customers were grouped into 6 distinct clusters based on their transaction behavior.
+* High-value, frequent shoppers were identified as the most loyal segment.
+* Less frequent shoppers showed potential for engagement through targeted promotions.
+* Certain cities and customer demographics showed a higher coupon redemption rate.
+
+
+******🎯 Recommendations for Coupon Strategy******
+* High-value customers (Clusters 3 & 4): Reward loyalty with premium offers.
+* Moderate customers (Clusters 0 & 5): Provide moderate discounts to keep them engaged.
+* Low-value customers (Clusters 1 & 2): Use aggressive discounts to boost retention.
+
+
+
+
+
+
+
+
+
 
 
 
