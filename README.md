@@ -52,9 +52,17 @@ The dataset consists of five tables:
 
 
 ******🎯 Recommendations for Coupon Strategy******
+
 * High-value customers (Clusters 3 & 4): Reward loyalty with premium offers.
 * Moderate customers (Clusters 0 & 5): Provide moderate discounts to keep them engaged.
 * Low-value customers (Clusters 1 & 2): Use aggressive discounts to boost retention.
+
+
+******📈 Visualizations******
+
+The project includes line chart while using elboww method to show the best k.
+![image](https://github.com/user-attachments/assets/d3cb1d72-b640-40e9-87d3-ee11e9f0beae)
+
 
 
 
