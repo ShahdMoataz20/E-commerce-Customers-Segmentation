@@ -69,6 +69,10 @@ The project includes box plots to analyze customer segments.
 ![image](https://github.com/user-attachments/assets/af527ecf-f505-4156-a507-a63fd5534993)
 
 
+******🏆 Conclusion******
+
+This project successfully segments customers into meaningful groups, providing a data-driven strategy for coupon allocation. The insights help businesses optimize marketing efforts, increase customer retention, and drive higher revenue.
+
 
 
 
