@@ -61,7 +61,14 @@ The dataset consists of five tables:
 ******📈 Visualizations******
 
 The project includes line chart while using elboww method to show the best k.
+
 ![image](https://github.com/user-attachments/assets/d3cb1d72-b640-40e9-87d3-ee11e9f0beae)
+
+The project includes box plots to analyze customer segments.
+
+![image](https://github.com/user-attachments/assets/af527ecf-f505-4156-a507-a63fd5534993)
+
+
 
 
 
